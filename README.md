@@ -4,7 +4,7 @@ This project explores solution to Techgig machine learning challenge. The proble
 
 ## Getting Started
 
-The [Training_Normal_Dataset.ipynb](https://github.com/mohitgoel188/Total_Sales_Predictor/blob/master/Training_Normal_Dataset.ipynb) file is the main file which contains all training related code code done on actual data provided .  
+The [Training_Normal_Dataset.ipynb](https://github.com/mohitgoel188/Total_Sales_Predictor/blob/master/Training_Normal_Dataset.ipynb) file is the main file which contains all training related code, done on actual data provided .  
 The [Training_Improved_dataset.ipynb](https://github.com/mohitgoel188/Total_Sales_Predictor/blob/master/Training_Improved_Dataset.ipynb) uses improved dataset in which location coordinates are used to get various important features like popuation count. The data transformation is done in [Data Cleaning.ipynb](https://github.com/mohitgoel188/Total_Sales_Predictor/blob/master/Data%20Cleaning.ipynb)  
   
 
