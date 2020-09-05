@@ -10,6 +10,14 @@ The [Training_Improved_dataset.ipynb](https://github.com/mohitgoel188/Total_Sale
 
 *.ipynb* is a python3 jupyter notebook and can be opened like any other jupyter notebook.
 
+## Table Schemas
+* *test.csv/train.csv*    
+    [outlet_no | business_type | city | state | zip | store_location | avg_age | blue_collar | white_collar | female | male | total_household_size  | total_household_income | time_zone | latitude | longitude | location_employee_code | employee_size | credit_score | credit_score_range | actual _credit_score]
+
+* *testX.csv/trainX.csv*    
+    [outlet_no | business_type | zip | avg_age | blue_collar | white_collar | female | total_household_size  | total_household_income | latitude | longitude | employee_size | actual _credit_score | Median | Pop | Encoded_store_location | Encoded_city | Encoded_state | Encoded_time_zone | Encoded_location_employee_code]
+
+
 ### Prerequisites
 
 Python 3.6.x is required with following modules with their dependencies:-
